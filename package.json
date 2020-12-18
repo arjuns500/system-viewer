@@ -20,7 +20,7 @@
         "commands": [
             {
                 "command": "system-viewer.openInSystemViewer",
-                "title": "System Viewer: Open in system viewer"
+                "title": "System Viewer: Open In System Viewer"
             },
             {
                 "command": "system-viewer.openFileInNavigator",
