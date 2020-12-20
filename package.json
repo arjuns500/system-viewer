@@ -2,9 +2,14 @@
     "name": "system-viewer",
     "displayName": "System Viewer",
     "description": "An extension to open any file in the system handler.",
-    "version": "0.0.1",
+    "publisher": "systemctl603",
+    "version": "1.0.1",
     "license": "MIT",
-    "icon": "./icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/systemctl603/system-viewer"
+    },
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -24,7 +29,7 @@
             },
             {
                 "command": "system-viewer.openFileInNavigator",
-                "title": "System Viewer: Open In Navigator"
+                "title": "System Viewer: Open In System Viewer"
             }
         ],
         "menus": {
