@@ -18,3 +18,5 @@ Commands used to open the file (With OS):
 - MacOS: `open`
 - Windows: `start`
 - Linux: `xdg-open` 
+
+If you liked the extension, please consider giving it a star.
