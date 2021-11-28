@@ -10,5 +10,5 @@
 - Adds to explorer context menu
 - Adds a command to Command Palette in VSCode
 
-## [1.0.2] - 2021-11-28
+## [1.1.0] - 2021-11-28
 - Rewrite extension to use `open` library to fix #1
