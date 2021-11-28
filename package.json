@@ -3,7 +3,7 @@
     "displayName": "System Viewer",
     "description": "An extension to open any file in the system handler.",
     "publisher": "systemctl603",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "license": "MIT",
     "repository": {
         "type": "git",
